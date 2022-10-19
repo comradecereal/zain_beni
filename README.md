@@ -6,3 +6,6 @@ In the version uploaded here, when decoding there is a strange encoding that I c
 
 I've opened this up to the community to see if someone can break it.
 
+When we decode level 1 of the encoding we are presented with the image below.
+
+![image](https://user-images.githubusercontent.com/29002327/196577210-3137f996-2824-48cb-97c4-500cac58b54c.png)
